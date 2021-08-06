@@ -1,0 +1,31 @@
+/* Navbar */
+.navbar-light{
+    background-color: rgb(245, 244, 178) !important;
+
+}
+
+
+/* Home Banner */
+
+#home{
+    background: url('../image/Homebanner.jpg') no-repeat center top;
+    background-size: cover;
+    min-height: 550px;
+
+}
+
+
+#home .darkknight{
+    margin-top: 300px;
+    font-size: large;
+    background-color: rgb(245, 244, 178);
+    border-radius: 5px;
+}
+
+
+/* footer */
+#contact{
+
+    background-color: rgb(245, 244, 178);
+
+}
